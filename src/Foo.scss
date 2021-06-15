@@ -1,0 +1,9 @@
+body {
+  background: url('./tom.jpeg');
+
+  div {
+    display: flex;
+    background: red;
+    flex-direction: column;
+  }
+}
